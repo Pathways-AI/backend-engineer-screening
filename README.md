@@ -14,10 +14,10 @@ Any standard python install will work, just run `python challenge.py` to run the
 
 # What To Submit
 
-Once you have fixed all bugs/errors, please submit the following in the Google Form:
+Once you have fixed all bugs/errors, please submit the following in an email:
 
 - The total Global Warming Potential printed out
-- Your code
+- Your code (attached as a file)
 
 # What you'll be judged on
 
